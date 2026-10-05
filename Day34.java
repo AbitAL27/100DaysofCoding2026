@@ -16,7 +16,7 @@ public class day34 {
 
         }else if (a>=80) {System.out.println("PREDIKAT B");
             
-        }else if (a>=70) {System.out.println("PREDIKAT");
+        }else if (a>=70) {System.out.println("PREDIKAT C");
             
         }else if (a>=60) {System.out.println("PREDIKAT D");
             
