@@ -19,9 +19,10 @@ public class day61 {
                 hasil *= i;
                 
             }
+            System.out.println("Hasil perkalian: "+hasil);
         }
 
-        System.out.println("Hasil perkalian: "+hasil);
+        
 
         sc.close();
     }
