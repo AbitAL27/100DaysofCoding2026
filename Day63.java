@@ -22,9 +22,10 @@ public class day63 {
                 System.out.print(M+"*");
                 
             }
+            System.out.println(" = "+hasil);
         }
 
-        System.out.println(" = "+hasil);
+        
 
         sc.close();
 
